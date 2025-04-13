@@ -1,0 +1,6 @@
+@w8d1_AdvancedUnitTesting_HostAddress = http://localhost:5049
+
+GET {{w8d1_AdvancedUnitTesting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
